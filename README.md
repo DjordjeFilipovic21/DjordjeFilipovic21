@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I am a computer science student
 -------------------------------
 
-I’m currently studying Computer science at Racunarski Fakultet in Belgrade
+I’m currently studying Software Engineering at Racunarski Fakultet in Belgrade
 
 * 🌍  I'm based in Belgrade, Zemun
 * ✉️  You can contact me at [f.djordje04@gmail.com](mailto:f.djordje04@gmail.com)
-* 🧠  I'm learning Angular
+* 🧠  I'm learning Rust
 * 🤝  I'm open to collaborating on interesting projects
 
 
